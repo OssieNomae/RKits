@@ -1,0 +1,3 @@
+Copy any desired plugins to C:\Program Files\Paint.NET\Effects\
+
+For more information, refer to the HOW TO INSTALL PLUGINS thread on the Paint.NET Forum: http://forums.getpaint.net/index.php?showtopic=1708
